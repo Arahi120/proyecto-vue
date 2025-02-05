@@ -1,5 +1,10 @@
 # .
 
+## Autor
+- Nombre: Diaz Aldecoa Yuri Arahi  
+- Email: a22311144@uthermosillo.edu.mx 
+- GitHub: [@Arahi120](https://github.com/Arahi120/proyecto-vue.git)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
